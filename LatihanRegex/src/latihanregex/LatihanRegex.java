@@ -7,7 +7,7 @@ package latihanregex;
 
 /**
  *
- * @author user
+ * @author Christian Frans
  */
 public class LatihanRegex {
 
@@ -18,6 +18,8 @@ public class LatihanRegex {
         // TODO code application logic here
         MainFrame frame = new MainFrame();
         frame.show();
+        
+        frame.setTitle("Tugas Java GUI - Christian Frans Mukuan 1920010040");
     }
     
 }
