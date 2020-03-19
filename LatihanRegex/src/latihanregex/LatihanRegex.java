@@ -19,7 +19,7 @@ public class LatihanRegex {
         MainFrame frame = new MainFrame();
         frame.show();
         
-        frame.setTitle("Tugas Java GUI - Christian Frans Mukuan 1920010040");
+        frame.setTitle("Tugas Regex - Christian Frans Mukuan 1920010040");
     }
     
 }
